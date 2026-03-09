@@ -30,3 +30,4 @@ cv2.imshow("Fire Mask", mask)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+Add fire detection code
